@@ -8,6 +8,7 @@ The assembler works in three main stages:
 1. **Pre-Processing**
 2. **First Pass**
 3. **Second Pass**
+   
 These stages form the core algorithm of the assembler.
 
 ### Pre-Processing
