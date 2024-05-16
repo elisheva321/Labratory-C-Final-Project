@@ -163,7 +163,6 @@ In the second pass, the assembler generates the final machine code, replacing op
         └── test6.ob
 
 33 directories, 104 files
-    ...
 ```
 
 </details>
