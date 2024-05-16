@@ -190,7 +190,7 @@ Before you begin, ensure that you have the following prerequisites installed:
 
 1. Clone the Labratory-C-Final-Project repository:
 ```sh
-git clone https://github.com/AlmogShKt/Labratory-C-Final-Project.git
+git clone https://github.com/elisheva321/Labratory-C-Final-Project.git
 ```
 
 2. Change to the project directory:
