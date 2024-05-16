@@ -5,9 +5,9 @@ This is the Final project (mmn 14) in Laboratory C 20465- 2024A course at the Op
 The project consists of multiple C and header files, each serving a specific purpose in the program. It adheres to principles of clarity, readability, structured writing, and data abstraction.
 
 The assembler works in three main stages:
-  1. Pre-Processing
-  2. First Pass
-  3. Second Pass
+1. **Pre-Processing**
+2. **First Pass**
+3. **Second Pass**
 These stages form the core algorithm of the assembler.
 
 ### Pre-Processing
