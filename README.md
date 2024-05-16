@@ -209,7 +209,7 @@ This will output machine code generated from the provided assembly file.
 
 This is valid input and output files:
 
-<p align="center">
+<p align="top">
   <img src="valid_input/ps1/valid input screenshot.png" width="200"> <img src="valid_input/ps1/valid output screenshot.png" width="200">  <img src="valid_input/ps1/valid output ext screenshot.png" width="200">  <img src="valid_input/ps1/valid output ent screenshot.png" width="200">
 </p>
 
