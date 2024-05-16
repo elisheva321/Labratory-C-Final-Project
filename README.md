@@ -21,7 +21,8 @@ The first pass identifies symbols (labels) and assigns them numerical values rep
 In the second pass, the assembler generates the final machine code, replacing operation names with their binary equivalents and symbol names with their assigned memory locations.
 
 <details closed><summary>📂 Project Structure</summary>
-```bash
+
+```
 repo
 ├── assembler
 ├── expected_output
@@ -144,7 +145,9 @@ repo
 │   ├── test1.ent
 │   ├── test1.ext
 │   └── test1.ob
-├── test3
-│   ├── test3.am
-</details>
+└── test3
+    ├── test3.am
+    ...
 ```
+
+</details>
