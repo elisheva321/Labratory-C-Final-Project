@@ -205,8 +205,11 @@ cd Labratory-C-Final-Project
 Run the compiled program using the following command: `./assembler file_name_1 ... file_name_N`
 
 Each inout file will output 3 files:
+
   An object file that contains the data image in memory. File extension name: ob
+  
   An entry file that contains the names of the labels defined as entry and their value. File extension name: ent
+  
   An extern file that contains the names of the labels defined as extern and an address in which there is a reference to the label. File extension name: ext
 ___
 
