@@ -7,7 +7,6 @@ This is the Final project (mmn 14) in Laboratory C 20465- 2024A course at the Op
 - [Usage](#-usage)
 - [Testing](#-testing)
 - [Documentation](#-documentation)
-- [Contribution](#-contribution)
   
 ## 🧩 Project Structure
 The project consists of multiple C and header files, each serving a specific purpose in the program. It adheres to principles of clarity, readability, structured writing, and data abstraction.
@@ -206,22 +205,6 @@ cd Labratory-C-Final-Project
 Run the compiled program using the following command: `./assembler file_name_1 ... file_name_N`
 
 This will output machine code generated from the provided assembly file.
-
-This is valid input and output files:
-
-<p align="center">
-  <img src="valid_input/ps1/valid input screenshot.png" width="200" >
-  <img src="valid_input/ps1/valid output screenshot.png" width="200" >
-  <img src="valid_input/ps1/valid output ext screenshot.png" width="200" >
-  <img src="valid_input/ps1/valid output ent screenshot.png" width="200" >
-</p>
-
-And for Invalid output:
-
-<p align="center">
-  <img src="Readme_imgs/Invalid1.png" width="600">
-</p>
-
 
 ___
 
