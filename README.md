@@ -211,8 +211,6 @@ ___
 
 
 
-___ 
-
 ## 🧪 Testing
 
 Several assembly language input files are provided to demonstrate the use of various operations and data types, as well as the assembler's handling of errors.
