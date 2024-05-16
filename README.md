@@ -174,3 +174,76 @@ In the second pass, the assembler generates the final machine code, replacing op
 ```
 
 </details>
+
+## ⚙️ Getting Started
+
+### ✔️ Prerequisites
+
+**Please switch to the `linux` branch to run the project. Use the following instructions:**
+
+
+Before you begin, ensure that you have the following prerequisites installed:
+> - `ℹ️ GCC compiler`
+> - `ℹ️ Ubuntu system (but others will also work)`
+
+### 📦 Installation
+
+1. Clone the Labratory-C-Final-Project repository:
+```sh
+git clone https://github.com/AlmogShKt/Labratory-C-Final-Project.git
+```
+
+2. Change to the project directory:
+```sh
+cd Labratory-C-Final-Project
+```
+
+3. *Checkout the Linux branch:!*
+```sh
+git checkout linux
+```
+
+5. Run Makefile to compile the program:
+```sh
+`make`
+```
+
+
+## 🔧 Usage
+
+Run the compiled program using the following command: `./assembler file_name_1 ... file_name_N`
+
+This will output machine code generated from the provided assembly file.
+
+This is valid input and output files:
+
+<p align="center">
+  <img src="Readme_imgs/c_master_as.png" width="200"> <img src="Readme_imgs/valid_output1.png" width="200">
+</p>
+
+And for Invalid output:
+
+<p align="center">
+  <img src="Readme_imgs/Invalid1.png" width="600">
+</p>
+
+
+___
+
+
+
+
+___ 
+
+## 🧪 Testing
+
+Several assembly language input files are provided to demonstrate the use of various operations and data types, as well as the assembler's handling of errors.
+
+___ 
+
+## 📚 Documentation
+
+Each function in the source code is accompanied by concise, clear documentation in the form of header comments, explaining its purpose and usage. Important variables are also explained. Detailed comments are present throughout the code for better understanding.
+
+___ 
+
