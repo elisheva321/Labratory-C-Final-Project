@@ -1,0 +1,5 @@
+Errors:
+Invalid label name: 1m_mcr
+, should start with a letter. line: 7
+failed on pre processing file invalid_input/test7/test7, will not continue for first pass
+SUCCESS test_invalid_input_7

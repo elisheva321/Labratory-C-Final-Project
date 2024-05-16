@@ -1,0 +1,2 @@
+[2024-04-22 03:15:56] [src/utils/utils.c:91] [INFO] output file name: valid_input/test1/test1.ext 
+

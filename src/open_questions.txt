@@ -1,0 +1,39 @@
+pre processor stage:
+	Q macro validation - 
+		cant be const number
+		cant be register name
+		cant be reserved word of assembly (define, assembly commands, label (data defined)
+		must start with letter
+		no other chars (other than white spaces) before mcr, endmcr 
+		other checks? 
+	
+	
+	Q should we create output .am if errors found
+	A no need to create output file if found errors.
+	
+
+	Q in the function  add_error, add_warning, what to do in case of a failed memory allocation.
+	A fail the function
+
+	Q can we save data of processed instruction line for second pass?
+
+	Q אם הוגדרה התווית X כאקסטרן, ואז X משומשת בפקודה, איזה ערך לשים במקומה? (פורום)
+	A 0
+
+
+=======
+	
+	
+	
+1) עמוד 30, שורות 109,111 וכן עמוד 36 שורות 109,111 - צריך להופיע בקידוד:
+
+00000111110110
+
+2) עמוד 43, שורה 108 צריכה להיות: *!!**** . שורה 117 צריכה להיות: *!*****
+
+בנוסף, מצורפים פה קבצי הקלט והפלט מהדוגמא במטלה. ( יש לוודא שהפרויקט שלכם רץ בצורה תקינה על קובץ הקלט המצורף!)
+
+
+	Q page 28, where do we need to save the label? (where does the actual value is been saved)
+	
+

@@ -1,0 +1,5 @@
+Errors:
+index -100 is out of range. found in line: 12
+index 78 is out of range for symbol LIST, found in line : 11
+
+SUCCESS test_valid_input_1

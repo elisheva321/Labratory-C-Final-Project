@@ -1,0 +1,33 @@
+Errors:
+line number: 4 symbol DUPLABEL already exists
+line type was not identified in line: 7
+line number: 11 symbol EXTERNLABEL
+ already exists
+line number: 15 symbol ENTRYLABEL
+ already exists
+Invalid syntax. found in line: 18
+missing operand name in line: 18
+invalid syntax for an array. found in line: 21
+invalid syntax for an array. found in line: 22
+too many operands for instruction. found in line: 25
+too many operands for instruction. found in line: 32
+Invalid label name: 1INVALIDLABEL, should start with a letter. line: 35
+line type was not identified in line: 38
+invalid label name, label doesn't end with ':'. found in line: 41
+invalid syntax for an array. found in line: 44
+too many operands for instruction in line: 47
+invalid characters for string, found in line: 53
+line type was not identified in line: 55
+no space between .string and string content, found in line: 58
+Invalid label name: mov, label name is an instruction. found in line: 61
+character ':' is invalid for a label name. found in line: 64
+line type was not identified in line: 67
+invalid char for an array: '.' found in line: 73
+character '@' is invalid for a label name. found in line: 76
+character '$' is invalid for a label name. found in line: 77
+undefined Symbol UNDEFINED
+undefined Symbol rX
+entry value is not defined for symbol ENTRYLABEL
+Warnings:
+line: 53 is longer than allowed
+SUCCESS test_invalid_input_2
