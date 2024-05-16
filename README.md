@@ -179,9 +179,6 @@ In the second pass, the assembler generates the final machine code, replacing op
 
 ### ✔️ Prerequisites
 
-**Please switch to the `linux` branch to run the project. Use the following instructions:**
-
-
 Before you begin, ensure that you have the following prerequisites installed:
 > - `ℹ️ GCC compiler`
 > - `ℹ️ Ubuntu system (but others will also work)`
@@ -196,11 +193,6 @@ git clone https://github.com/elisheva321/Labratory-C-Final-Project.git
 2. Change to the project directory:
 ```sh
 cd Labratory-C-Final-Project
-```
-
-3. *Checkout the Linux branch:!*
-```sh
-git checkout linux
 ```
 
 5. Run Makefile to compile the program:
