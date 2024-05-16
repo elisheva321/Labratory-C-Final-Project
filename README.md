@@ -1,6 +1,14 @@
 # Labratory C final Project By Elisheva Cirota and Daniel Oren
 This is the Final project (mmn 14) in Laboratory C 20465- 2024A course at the Open University. This project was developed as part of the "20465 - Systems Programming Laboratory" 2024A course at the Open University. It's a comprehensive assembler program for a specific assembly language, written in C. The purpose is to simulate the operation of common system programs, and thus experience writing a large-scale software project.
 
+## 📖 Table of Contents
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
+- [Usage](#-usage)
+- [Testing](#-testing)
+- [Documentation](#-documentation)
+- [Contribution](#-contribution)
+  
 ## 🧩 Project Structure
 The project consists of multiple C and header files, each serving a specific purpose in the program. It adheres to principles of clarity, readability, structured writing, and data abstraction.
 
