@@ -1,6 +1,6 @@
 # Labratory C final Project 
-Written by Elisheva Cirota and Daniel Oren.
 This is the Final project (mmn 14) in Laboratory C 20465- 2024A course at the Open University. This project was developed as part of the "20465 - Systems Programming Laboratory" 2024A course at the Open University. It's a comprehensive assembler program for a specific assembly language, written in C. The purpose is to simulate the operation of common system programs, and thus experience writing a large-scale software project.
+Written by Elisheva Cirota and Daniel Oren.
 
 notes:
 - all internal functions (functions that are not exposed to the user of the library) will start with prefix "_".
