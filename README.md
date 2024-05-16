@@ -210,7 +210,7 @@ This will output machine code generated from the provided assembly file.
 This is valid input and output files:
 
 <p align="center">
-  <img src="Readme_imgs/c_master_as.png" width="200"> <img src="Readme_imgs/valid_output1.png" width="200">
+  <img src="valid_input/valid input screenshot.png" width="200"> <img src="valid_input/valid input screenshot.png" width="200">
 </p>
 
 And for Invalid output:
